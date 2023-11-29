@@ -34,4 +34,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
 # react-app-with-state-management
+
+## Current Goals:
+
+- Build out Twitter userface with css.
+- Build out the entire home page.
+- Build one more page out to show that you can:
+  - Create a consistent css theme across all pages (parent css > children css files)
